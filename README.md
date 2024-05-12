@@ -1,4 +1,4 @@
 # new-work
 This is my first Git Repository.
 <br>
-Author - Priyam Srivastava
+Author - Priyam Srivastava (Lala)
